@@ -1,0 +1,14 @@
+ #link{
+    color: rgb(116, 54, 28);
+    transition: color 0.3s ease;
+}
+#link:hover{
+    color: deeppink;
+}
+
+.navbar {
+    box-shadow: 0 2px 4px rgb(121, 121, 121);
+    background-color:white;
+    padding: 0px;
+    border-radius: 10px;
+} 
